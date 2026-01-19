@@ -5,14 +5,14 @@ Agentic Mobile Stock Research Assistant
 ----------------------------------------------------
 
 ONE-LINE SUMMARY
-StockPilot AI is an autonomous mobile agent that performs end-to-end stock research directly inside real Android finance apps and converts on-screen data into structured JSON — without using APIs.
+StockPilot AI is an autonomous mobile agent that performs end-to-end stock research directly inside real Android finance apps and converts on-screen data into structured JSON — using APIs.
 
 ----------------------------------------------------
 
 PROBLEM
 Stock research on mobile apps is highly manual:
 - Analysts must open apps, search stocks, navigate multiple screens
-- Data is locked inside UI and not accessible via APIs
+- Data is locked inside UI and accessible via APIs
 - This process is slow, repetitive, and error-prone
 
 ----------------------------------------------------
@@ -58,7 +58,7 @@ AGENTIC BEHAVIOR
 
 WHY IT MATTERS
 - Solves a real, high-value mobile workflow
-- No API dependency
+- API dependency
 - Demonstrates true mobile agent automation
 - Scalable across apps and stocks
 - Strong B2B market relevance

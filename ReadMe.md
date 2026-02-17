@@ -1,4 +1,4 @@
-STOCKPILOT AI
+STOCKPILOT 
 Agentic Mobile Stock Research Assistant
 (Built with Droidrun + Mobilerun Cloud)
 
